@@ -1,5 +1,4 @@
-﻿using NUnit.Framework;
-using System.Reflection;
+﻿using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
@@ -14,7 +13,6 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
-[assembly: Parallelizable(ParallelScope.Fixtures)]
 
 // Setting ComVisible to false makes the types in this assembly not visible 
 // to COM components.  If you need to access a type in this assembly from 
@@ -22,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("35d56b34-ddef-4ed9-b6ae-be6bf8e0132a")]
+[assembly: Guid("c6dae976-d48b-4eec-a054-37cdc918f0bb")]
 
 // Version information for an assembly consists of the following four values:
 //
