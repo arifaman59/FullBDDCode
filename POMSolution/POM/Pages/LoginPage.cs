@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace POM.Pages
 {
-    class LoginPage
+    public class LoginPage
     {
+        public Homepage DoLogin(string v1, string v2)
+        {
+            return new Homepage();
+        }
     }
 }

@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace POM.Pages
 {
-    class ShoppingCartPage
+    public class ShoppingCartPage
     {
+        public OrderStatusPage ReviewPlaceOrder()
+        {
+            return new OrderStatusPage();
+        }
     }
 }

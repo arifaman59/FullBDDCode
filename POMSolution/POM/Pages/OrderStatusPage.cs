@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace POM.Pages
 {
-    class OrderStatus
+    public class OrderStatusPage
     {
+        public void VerifyOrder()
+        {
+
+        }
     }
 }

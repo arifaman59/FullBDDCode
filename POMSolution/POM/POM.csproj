@@ -47,7 +47,7 @@
     <Compile Include="Pages\LaunchPage.cs" />
     <Compile Include="Pages\LoginPage.cs" />
     <Compile Include="Pages\OderReviewPage.cs" />
-    <Compile Include="Pages\OrderStatus.cs" />
+    <Compile Include="Pages\OrderStatusPage.cs" />
     <Compile Include="Pages\ShoppingCartPage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
